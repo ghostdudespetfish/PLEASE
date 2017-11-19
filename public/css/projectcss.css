@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+#cat {font-family:"";}
+
+#q {
+background-color: white;
+    height: 580px;
+    width: 460px;
+    margin: auto;
+ margin-top: -50px;
+}
+#w {
+    background-color: red;
+    height: 280px;
+    width: 160px;
+    margin-top: -540px;
+    margin-left: 470px;
+}
+#e {
+    background-color: blue;
+    height: 140px;
+    width: 260px;
+    margin-left: 550px;
+    margin-top: -210px;
+}
+#r{
+    background-color: lawngreen;
+    height: 250px;
+    width: 160px;
+    margin-top: -25px;
+    margin-left: 720px;
+    outline-color: black;
+    outline-width: thick;
+    outline-style: solid;
+}
+
+
+
+
+
+
